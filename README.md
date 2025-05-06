@@ -74,4 +74,4 @@ Implementing this dashboard can result in:
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](https://your-image-hosting-link.com/dashboard-preview.png)
+![Dashboard Screenshot]([https://your-image-hosting-link.com/dashboard-preview.png](https://github.com/Tejasthakur2003/Interactive-Sales-Dashboard/blob/main/sales%20dashboard.png))
